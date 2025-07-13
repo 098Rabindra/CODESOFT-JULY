@@ -3,21 +3,23 @@ _________________________________________
 
 Tasks Overview
 
-Task 1: Number Guessing Game
+
+Task 1: 🎯 Number Guessing Game
+
 
 •	Generate random numbers, prompt user guesses, and provide feedback.
 
 •	Allow multiple rounds and calculate scores.
 
 
-Task 2: Student Grade Calculator
+Task 2: 📊 Student Grade Calculator
 
 •	Calculate total marks and average percentage.
 
 •	Assign grades and display results.
 
 
-Task 3: ATM Interface
+Task 3: 🏦 ATM Interface Simulation
 
 •	Create an ATM class with withdraw, deposit, and checkBalance methods.
 
